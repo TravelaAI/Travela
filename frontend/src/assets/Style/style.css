@@ -1,0 +1,51 @@
+
+.CustomHeader{
+    background-color: #130834 !important;
+}.blueBg{
+    background-color: #130834 !important;
+}
+.Logopointer{
+    cursor: pointer !important;
+}
+.LogoFont{
+    color: rgb(233, 150, 25) !important;
+}
+.MainPara{
+    font-size: 16px !important;
+    color: #ffffff !important;
+}
+.MainText{
+    
+    color: #ffffff !important;
+    font-size: 38px !important;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #003734;
+}
+.MainHeading{
+    font-size: 48px !important;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #006D69;
+    font-weight: 900 !important;
+}
+  .my-input.v-text-field--outlined fieldset {
+    border: 1px solid rgb(49, 45, 45) !important;
+    border-radius: 9px;
+}
+
+.customCard {
+    border-radius: 0% !important;
+    border-right: 1px solid #000000 !important; /* Adjust the color and width as needed */
+  }
+
+  .customRightBorder {
+    border-radius: 0% !important;
+    border-right: 1px solid #fff !important; /* Adjust the color and width as needed */
+  }
+.GreenBg{
+    background-color: #61B12F !important;
+}
+.quotesText{
+    font-size: 20px !important;
+    
+    font-family: 'Nunito Sans', sans-serif;
+}
